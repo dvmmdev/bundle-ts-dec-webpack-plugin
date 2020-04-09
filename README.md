@@ -5,7 +5,7 @@
 **webpack.config.js**
 
 ```js
-const DeclarationBundlerPlugin = require('bundle-ts-dec-webpack-plugin');
+const BundleTSDecPlugin = require('bundle-ts-dec-webpack-plugin');
 
 module.exports = {
     ...
