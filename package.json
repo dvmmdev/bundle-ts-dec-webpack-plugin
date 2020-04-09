@@ -1,14 +1,18 @@
 {
-	"name": "bundle-ts-dec-webpack-plugin",
+	"name": "@dvmm/bundle-ts-dec-webpack-plugin",
 	"version": "0.0.1",
 	"description": "Bundle type declarations into a single file.",
 	"main": "main.js",
 	"scripts": {},
 	"keywords": [],
-	"author": "",
+	"author": "DVMM",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dvmmdev/bundle-ts-dec-webpack-plugin.git"
-	}
+		"url": "git+https://github.com/dvmmdev/bundle-ts-dec-webpack-plugin.git"
+	},
+	"bugs": {
+		"url": "https://github.com/dvmmdev/bundle-ts-dec-webpack-plugin/issues"
+	},
+	"homepage": "https://github.com/dvmmdev/bundle-ts-dec-webpack-plugin#readme"
 }

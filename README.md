@@ -1,11 +1,11 @@
 # BundleTSDec
 
-`npm i --save-dev bundle-ts-dec-webpack-plugin`
+`npm i --save-dev @dvmm/bundle-ts-dec-webpack-plugin`
 
 **webpack.config.js**
 
 ```js
-const BundleTSDecPlugin = require('bundle-ts-dec-webpack-plugin');
+const BundleTSDecPlugin = require('@dvmm/bundle-ts-dec-webpack-plugin');
 
 module.exports = {
     ...
