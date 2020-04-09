@@ -1,0 +1,10 @@
+{
+	"name": "bundle-ts-dec-webpack-plugin",
+	"version": "0.0.1",
+	"description": "Bundle type declarations into a single file.",
+	"main": "main.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
